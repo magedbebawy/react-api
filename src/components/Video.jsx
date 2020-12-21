@@ -3,7 +3,7 @@ import React from 'react';
 class Photo extends React.Component{
     render(){
         const mystyle = {
-            width: "70%",
+            width: "100%",
             margin: "5px auto"
           };
     return(
